@@ -12,6 +12,6 @@ addSbtPlugin("com.github.sbt" % "sbt-site-paradox" % "1.7.0")
 
 addSbtPlugin("com.github.sbt" % "sbt-paradox-material-theme" % "0.7.0")
 
-addSbtPlugin("com.github.sbt" % "sbt-multi-jvm" % "0.6.0")
+addSbtPlugin("com.github.sbt" % "sbt-multi-jvm" % "0.7.0")
 
 addSbtPlugin("com.github.tkawachi" % "sbt-repeat" % "0.1.0")
